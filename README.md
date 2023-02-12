@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nuno Castro</h1>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nunofbcastro&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=nunofbcastro&label=Profile%20views&color=0e75b6" />
   <a href="https://github.com/nunofbcastro?tab=followers">
-    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=social&label=Follow" />
+    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=for-the-badge&label=Follow" />
   </a>
 </p>
 
