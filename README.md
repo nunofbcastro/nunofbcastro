@@ -9,7 +9,7 @@
 <h2> 📫 &nbsp;Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/nunofbcastro" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn">
   </a>
 </p>
 
@@ -17,63 +17,32 @@
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=HTML5&amp;color=E34F26&amp;logo=HTML5&amp;logoColor=FFFFFF&amp;label=" alt="HTML5">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=CSS3&amp;color=1572B6&amp;logo=CSS3&amp;logoColor=FFFFFF&amp;label=" alt="CSS3">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=JavaScript&amp;color=222222&amp;logo=JavaScript&amp;logoColor=F7DF1E&amp;label=" alt="JavaScript">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=TypeScript&amp;color=3178C6&amp;logo=TypeScript&amp;logoColor=FFFFFF&amp;label=" alt="TypeScript">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Node.js&amp;color=339933&amp;logo=Node.js&amp;logoColor=FFFFFF&amp;label=" alt="Node.js">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Angular&amp;color=DD0031&amp;logo=Angular&amp;logoColor=FFFFFF&amp;label=" alt="Angular">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=React&amp;color=222222&amp;logo=React&amp;logoColor=61DAFB&amp;label=" alt="React">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Next.js&amp;color=000000&amp;logo=Next.js&amp;logoColor=FFFFFF&amp;label=" alt="Next.js">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Tailwind+CSS&amp;color=222222&amp;logo=Tailwind+CSS&amp;logoColor=06B6D4&amp;label=" alt="Tailwind CSS">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Android&amp;color=222222&amp;logo=Android&amp;logoColor=3DDC84&amp;label=" alt="Android">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Jetpack+Compose&amp;color=4285F4&amp;logo=Jetpack+Compose&amp;logoColor=FFFFFF&amp;label=" alt="Jetpack Compose">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Kotlin&amp;color=7F52FF&amp;logo=Kotlin&amp;logoColor=FFFFFF&amp;label=" alt="Kotlin">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=C&amp;color=222222&amp;logo=C&amp;logoColor=A8B9CC&amp;label=" alt="C">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Python&amp;color=3776AB&amp;logo=Python&amp;logoColor=FFFFFF&amp;label=" alt="Python">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=C+Sharp&amp;color=239120&amp;logo=C+Sharp&amp;logoColor=FFFFFF&amp;label=" alt="C Sharp">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=.NET&amp;color=512BD4&amp;logo=.NET&amp;logoColor=FFFFFF&amp;label=" alt=".NET">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Unity&amp;color=222222&amp;logo=Unity&amp;logoColor=FFFFFF&amp;label=" alt="Unity">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Arduino&amp;color=00979D&amp;logo=Arduino&amp;logoColor=FFFFFF&amp;label=" alt="Arduino">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Linux&amp;color=222222&amp;logo=Linux&amp;logoColor=FCC624&amp;label=" alt="Linux">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MongoDB&amp;color=47A248&amp;logo=MongoDB&amp;logoColor=FFFFFF&amp;label=" alt="MongoDB">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Microsoft+SQL+Server&amp;color=CC2927&amp;logo=Microsoft+SQL+Server&amp;logoColor=FFFFFF&amp;label=" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=MySQL&amp;color=4479A1&amp;logo=MySQL&amp;logoColor=FFFFFF&amp;label=" alt="MySQL">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Firebase&amp;color=222222&amp;logo=Firebase&amp;logoColor=FFCA28&amp;label=" alt="Firebase">
 </p>
 
 ---
