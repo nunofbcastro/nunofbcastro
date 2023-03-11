@@ -58,3 +58,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nunofbcastro&theme=onedark" />
   </p>
 </a>
+
+<img width="100%" src="https://github.com/nunofbcastro/nunofbcastro/blob/output/github-contribution-snake.svg" />
