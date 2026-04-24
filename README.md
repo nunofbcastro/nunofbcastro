@@ -47,16 +47,29 @@
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/nunofbcastro">
-  <p align="center"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nunofbcastro&theme=noctis_minimus&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunofbcastro&theme=noctis_minimus&layout=compact" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=nunofbcastro&theme=onedark" />
-  </p>
-</a>
+<h2> 🐍 &nbsp;Snake Contribution</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake.svg">
+  </picture>
+</p>
 
-<!--<img width="100%" src="https://github.com/nunofbcastro/nunofbcastro/blob/output/github-contribution-snake.svg" />-->
+---
+
+<h2> 📈 &nbsp;My GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/nunofbcastro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunofbcastro&theme=noctis_minimus&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunofbcastro&theme=noctis_minimus&layout=compact&langs_count=8" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunofbcastro&theme=noctis_minimus" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nunofbcastro&theme=onedark&column=7" />
+</p>
