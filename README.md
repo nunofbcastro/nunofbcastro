@@ -49,11 +49,7 @@
 
 <h2> 🐍 &nbsp;Snake Contribution</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/nunofbcastro/nunofbcastro/output/github-contribution-snake.svg" alt="github contribution snake" />
 </p>
 
 ---
@@ -73,3 +69,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nunofbcastro&theme=onedark&column=7" />
 </p>
+
