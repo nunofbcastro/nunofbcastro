@@ -67,6 +67,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nunofbcastro&theme=onedark&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nunofbcastro&theme=tokyonight" />
 </p>
 
